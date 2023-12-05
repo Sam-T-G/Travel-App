@@ -34,6 +34,10 @@ Text box with autofill where user would like to travel - added feature to add de
 User can input how many days
 User can input budget
 When user fills out the text box, app will show autofill options for popular destinations
+When user chooses a destination, option s to plan based off of budget, how many days, and if user wants to add more stops populates
+When user loads the main page, location will be asked so application can use stored knowledge to make more accurate travel plans and populate more up-to-date prices
+When user views UI, a visible and easily accessible button to access a trip wizard will be available. Will lead to questionnaire module that will help curate travel suggestions for user.
+User can use application just to find flights, housing, or other activity search and planning functions individually if desired.
 
 # Npm packages used
 
