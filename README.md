@@ -43,7 +43,8 @@ User can keep selected options bookmarked to make tracking fluctuating prices ea
 
 # Npm packages used
 
-- 
+- "next": "^14.0.3"
+- "react": "^18"
 
 ### 
 
