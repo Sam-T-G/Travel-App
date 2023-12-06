@@ -38,6 +38,8 @@ When user chooses a destination, option s to plan based off of budget, how many 
 When user loads the main page, location will be asked so application can use stored knowledge to make more accurate travel plans and populate more up-to-date prices
 When user views UI, a visible and easily accessible button to access a trip wizard will be available. Will lead to questionnaire module that will help curate travel suggestions for user.
 User can use application just to find flights, housing, or other activity search and planning functions individually if desired.
+User can export curated and selected options into a Google Calendar that has location information for GPS travel calculations.
+User can keep selected options bookmarked to make tracking fluctuating prices easier. Application will notify user through push notifications/emails/text message whenever prices are surging or a drastic price drop has occured.
 
 # Npm packages used
 
