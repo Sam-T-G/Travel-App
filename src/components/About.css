@@ -7,3 +7,14 @@
     background-size: cover;
     background-position: center;
   }
+
+  .about-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .about-image{
+    height: 300px;
+    margin: 20px;
+  }
