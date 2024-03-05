@@ -14,8 +14,8 @@ const App: React.FC = () => {
           <Route
             path="/"
             element={<Home title="Travel App" subtitle="subtitle goes here" />}
-          ></Route>
-          <Route path="/about" element={<About />}></Route>
+          />
+          <Route path="/about" element={<About textbox="test123" />} />
         </Routes>
         <Footer />
       </div>

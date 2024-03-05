@@ -12,12 +12,12 @@ const Footer: React.FC = () => {
           </Link>
         </li>
         <li className="footer-button">
-          <Link to="/" className="footer-link">
+          <Link to="/about" className="footer-link">
             About
           </Link>
         </li>
         <li className="footer-button">
-          <Link to="/" className="footer-link">
+          <Link to="/contact" className="footer-link">
             Contact
           </Link>
         </li>
