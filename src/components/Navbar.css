@@ -1,6 +1,6 @@
 .navbar {
     background-color: #535353; /* Set background color */
-    color: #000000; /* Set text color */
+    color: #e0e0e0; /* Set text color */
     padding: 10px 0; /* Add some padding */
   }
   
@@ -11,11 +11,11 @@
     max-width: 1440px; /* Set max width */
     margin: 0 auto; /* Center the navbar */
     padding: 0 20px; /* Add padding */
-    color: #242424; /* Set text color */
+    color: #e0e0e0; /* Set text color */
   }
   
   .navbar-logo {
-    color: #272727; /* Set text color */
+    color: #c9c9c9; /* Set text color */
     text-decoration: none; /* Remove underline */
     font-size: 24px; /* Set font size */
   }
@@ -23,16 +23,16 @@
   .navbar-menu {
     list-style: none; /* Remove list bullet points */
     display: flex; /* Use flexbox for layout */
-    color: #0f0f0f; /* Set text color */
+    color: #d3d3d3; /* Set text color */
   }
   
   .navbar-button {
     margin-right: 20px; /* Add margin between items */
-    color: #030303; /* Set text color */
+    color: #e2e2e2; /* Set text color */
   }
   
   .navbar-link {
-    color: rgb(53, 53, 53)e2e; /* Set text color */
+    color: rgb(180, 180, 180)e2e; /* Set text color */
     text-decoration: none; /* Remove underline */
     font-size: 18px; /* Set font size */
   }
