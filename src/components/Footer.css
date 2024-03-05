@@ -7,7 +7,7 @@
 .footer-container {
     display: flex; /* Use flexbox for layout */
     justify-content: center; /* Align items horizontally */
-    align-items: baseline; /* Align items vertically */
+    align-items: center; /* Align items vertically */
     max-width: 1440px; /* Set max width */
     margin: 0 auto; /* Center the navbar */
     padding: 0 20px; /* Add padding */
@@ -23,7 +23,9 @@
     list-style: none; /* Remove list bullet points */
     display: flex; /* Use flexbox for layout */
     align-items: center;
+    justify-content: center;
     margin: 17px;
+    padding: 0;
   }
 
 .footer-buttons {
