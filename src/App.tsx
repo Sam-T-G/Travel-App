@@ -8,6 +8,8 @@ import Contact from "./components/Contact";
 import "./App.css";
 
 const App: React.FC = () => {
+  const aboutImage = "/src/assets/bali-sunset.jpg";
+
   return (
     <BrowserRouter>
       <div className="app">
@@ -17,7 +19,10 @@ const App: React.FC = () => {
             path="/"
             element={<Home title="Travel App" subtitle="subtitle goes here" />}
           />
-          <Route path="/about" element={<About textbox="test123" />} />
+          <Route
+            path="/about"
+            element={<About textbox="test123" aboutImage={aboutImage} />}
+          />
           <Route
             path="/contact"
             element={<Contact email="test123@email.com" phone="911-911-6969" />}
